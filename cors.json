@@ -1,0 +1,14 @@
+[
+  {
+    "origin": ["http://localhost:3000/"],
+    "method": ["GET"],
+    "responseHeader": ["Content-Type"],
+    "maxAgeSeconds": 3600
+  },
+  {
+    "origin": ["http://192.168.1.67/"],
+    "method": ["GET"],
+    "responseHeader": ["Content-Type"],
+    "maxAgeSeconds": 3600
+  }
+]
